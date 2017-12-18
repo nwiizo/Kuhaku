@@ -1,0 +1,6 @@
+[package]
+name = "kuhaku"
+version = "0.1.0"
+authors = ["smotouchi <shuya-motouchi@gmo.jp>"]
+
+[dependencies]
